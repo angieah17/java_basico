@@ -22,7 +22,7 @@ public class Main {
 }
 ```
 
-### ✨ Autor
+## ✨ Autor
 - **Angie Amado** - [GitHub](https://github.com/angieah17)
 
 
