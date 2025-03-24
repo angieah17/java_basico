@@ -7,6 +7,12 @@ Este es un proyecto en el cual se compilan las primeras sesiones de Java Básico
 
 - Puedes trabajar en cualquier editor y compilador en línea. Te sugiero: - [Paiza](https://paiza.io/es)
 
+### 📄 Contenido
+- Datos Primitivos
+- Bucles
+- Booleans
+- Operadores Lógicos
+
 ### 📜 Código de ejemplo
 ```java
 public class Main {
