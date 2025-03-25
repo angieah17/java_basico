@@ -12,6 +12,7 @@ Este es un proyecto en el cual se compilan las primeras sesiones de Java Básico
 - Bucles
 - Booleans
 - Operadores Lógicos
+- Modelo de Examen
 
 ### 📜 Código de ejemplo
 ```java
