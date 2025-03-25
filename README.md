@@ -13,7 +13,7 @@ Este es un proyecto en el cual se compilan las primeras sesiones de Java Básico
 - Booleans
 - Operadores Lógicos
 
-## 📜 Código de ejemplo
+### 📜 Código de ejemplo
 ```java
 public class Main {
     public static void main(String[] args) {
@@ -25,4 +25,4 @@ public class Main {
 ## ✨ Autor
 - **Angie Amado** - [GitHub](https://github.com/angieah17)
 
-
+![LogoJava](https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png)
