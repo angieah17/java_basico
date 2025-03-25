@@ -1,6 +1,8 @@
 package booleans.operadores.logicos;
 
 public class OperadorIfElse {
+
+	/*En Java el operador if-else se usa para ejecutar diferentes bloques de código según una condición booleana.*/
 	
 	public static void main(String[] args) {
 		   
