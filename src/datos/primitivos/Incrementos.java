@@ -1,6 +1,17 @@
 package datos.primitivos;
 
 public class Incrementos {
+	
+	/*En Java los incrementos son operaciones que aumentan el valor de una variable numérica. Se realizan mediante el operador ++, que suma 1 al valor de la variable. Hay dos formas de usarlo:
+
+	1. Incremento postfijo (variable++)
+	Primero usa el valor actual de la variable en la expresión y luego la incrementa.
+	
+	2. Incremento prefijo (++variable)
+	Primero incrementa la variable y luego usa el valor actualizado en la expresión.
+	
+	 * */
+
 	public static void main(String[] args) {
 		
 		   int i=1, j = 1, k=1;
